@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://BB123:BB123@cluster0-x014c.mongodb.net/devconnector?retryWrites=true&w=majority",
+    "jwtSecret": "thesecrettoken"
+}
